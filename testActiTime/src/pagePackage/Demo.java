@@ -7,7 +7,7 @@ public class Demo {
 		
 		
 		
-		System.out.println("First code");
+		System.out.println("second code");
 
 	}
 
